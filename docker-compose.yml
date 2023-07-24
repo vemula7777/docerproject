@@ -24,6 +24,6 @@ services:
   recharge:
     image: vemula7777/reporecharge:latest
     ports:
-      - "83:80"
+      - "93:80"
     deploy:
       replicas: 3
